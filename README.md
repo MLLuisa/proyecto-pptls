@@ -4,7 +4,7 @@ El clasico de Big Bang Theory *Piedra papel tijeras Lagarto Spock* en Arduino.
 [Video del capitulo](https://www.youtube.com/watch?v=_tsy4q9ibAE)
 
 ## Logica del juego:
-
+![Reglas](pictures/reglas.jpg)
 - Piedra gana a tijeras y lagarto, pierde con papel y spock.
 - Papel gana a piedra y spock, pierde con tijeras y lagarto.
 - Tijeras gana a papel y lagarto, pierde con piedra y spock.
